@@ -22,3 +22,7 @@ git add .
 
 -- Troca Branch de Master para Main
 git branch -m master main
+
+-- Envia as atualizações para o Github
+git push
+
